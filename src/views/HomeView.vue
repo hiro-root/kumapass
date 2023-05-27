@@ -7,7 +7,7 @@
   <div class="mb-3"><img src="@/assets/xxxhdpi.png" alt=""></div>
   <div class="container  mb-3">  
     <div class="col-12 mb-3">
-      <input type="test" v-model="text" class="form-control-inline col-4" placeholder="Please click Generate Password"/>
+      <input type="test" v-model="text" class="form-control-inline col-8" placeholder="Please click Generate Password"/>
     </div>
     <!-- <div class="form-group mx-5"> -->
     <div class="form-group mb-3">
