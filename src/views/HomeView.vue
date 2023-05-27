@@ -7,7 +7,7 @@
   <div class="mb-3"><img src="@/assets/xxxhdpi.png" alt=""></div>
   <div class="container  mb-3">  
     <div class="col-12 mb-3">
-      <input type="test" v-model="text" class="form-control-inline col-8" placeholder="Please click Generate Password"/>
+      <input type="test" v-model="text" class="form-control-inline col-10" placeholder="Please click Generate Password"/>
     </div>
     <!-- <div class="form-group mx-5"> -->
     <div class="form-group mb-3">
@@ -125,7 +125,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h2 {
-  margin: 140px 0 0;
+  margin: 70px 0 0;
 }
 
 /* * {
