@@ -4,5 +4,8 @@ module.exports = defineConfig({
   publicPath: './',
   assetsDir: './',
   // baseUrl: process.env.NODE_ENV === 'production' ? '/kumapass' : '/',
-  outputDir: 'docs'
+  outputDir: 'docs',
+  devServer: {
+    host: "localhost"
+  }
 })
